@@ -1,0 +1,10 @@
+{
+  "name": "eatclub-movie-ticket-booking",
+  "version": "1.0.0",
+  "description": "Movie ticket booking - seat booking, cancellation, payment and notification (in-memory)",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "UNLICENSED"
+}
